@@ -27,7 +27,7 @@ int main()
     {
         index.push_back(n);
     }
-    cout<<index.size()<<"Ìâ"<<endl;
+    cout<<index.size()<<"questions"<<endl;
     for(int i=0;i<index.size();i++)
         cout<<index[i]<<". "<<S[index[i]-1]<<endl;
     cout<<"https://github.com/hanluc/Leetcodes"<<endl;
